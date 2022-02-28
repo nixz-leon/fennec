@@ -1,0 +1,9 @@
+Parts List:
+5015 Fan * 2
+4040 10 fan
+M4 nuts * 2
+M4 bolts * 2 max length 20mm min 10mm
+M3 bolts (from stock machine) * 6: Two for mounting onto x carriage, 4 for mount the fan Max is 12 mm in length
+Optional
+bltouch, plus mounting hardware
+
